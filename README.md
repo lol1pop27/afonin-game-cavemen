@@ -14,9 +14,13 @@ python main.py
 
 🎮 Управление
 ← → — движение
+
 SPACE / ↑ — прыжок
+
 CTRL — выстрел
+
 R — перезапуск после Game Over
+
 📦 Зависимости
 Python 3.10+
 Pygame
