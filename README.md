@@ -1,4 +1,4 @@
-# Afonin Game 🎮
+# Afonin Game 
 
 2D игра на Python + Pygame.
 
